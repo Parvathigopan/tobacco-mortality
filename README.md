@@ -1,2 +1,2 @@
 # Tobacco-mortality
-Analyzed the impact of tobacco use on mortality using statistical methods and data visualization in Python. Explored correlations between smoking rates and death counts across regions, applying data cleaning, transformation, and EDA techniques to uncover health trends and support policy-making insights.
+This project explores the correlation between tobacco use and mortality using data analysis and visualization techniques. It includes preprocessing, statistical insights, and graphical interpretation to highlight the health impact of tobacco. Built with Python, Pandas, and Matplotlib.
